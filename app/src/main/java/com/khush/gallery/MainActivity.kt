@@ -1,4 +1,4 @@
-package com.khush.gallery
+package com.alok.gallery
 
 import android.content.pm.PackageManager
 import android.os.Build
